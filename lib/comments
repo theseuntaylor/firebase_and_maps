@@ -1,0 +1,12 @@
+
+/** listen for location changes and animate there.*/
+// _location.onLocationChanged.listen((LocationData newLocation) {
+
+//
+//   print("${newLocation.longitude} : ${newLocation.longitude}");
+//   setState(() {
+//     _currentPosition = newLocation;
+//     _cameraPosition =
+//         LatLng(_currentPosition.latitude, _currentPosition.longitude);
+//   });
+// });
